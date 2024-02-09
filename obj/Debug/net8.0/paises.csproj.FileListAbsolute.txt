@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\bin\Debug\net8.0\paises.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\bin\Debug\net8.0\paises.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\bin\Debug\net8.0\paises.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\bin\Debug\net8.0\paises.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\bin\Debug\net8.0\paises.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\refint\paises.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\paises.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\paises\obj\Debug\net8.0\ref\paises.dll
